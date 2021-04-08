@@ -13,7 +13,7 @@ I also installed the `colorls` plugin to have icons at file listings:
 
 - [iTerm2](https://www.iterm2.com)
 
-        brew cask install iterm2
+        brew install --cask iterm2
 
 - [Oh My Zsh](https://ohmyz.sh)
 
